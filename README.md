@@ -1,4 +1,4 @@
-![Help us modernize broadcasting](https://github.com/woocommerce/.github/blob/trunk/images/relyy_share_image.png)
+![Help us modernize broadcasting](https://github.com/RelyyHQ/.github/images/relyy_share_image.png)
 
 **We're looking for sponsors!**
 
